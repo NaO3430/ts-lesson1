@@ -1,4 +1,4 @@
 const output = (text: string): string => {
   return text;
 };
-console.log(output('hello world'));
+console.log(output('HelloWorld'));
